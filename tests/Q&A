@@ -1,0 +1,5 @@
+#Famine (Starvation)
+  Expliquez le concept de famine dans les programmes multi-threads. Comment peut-on l'éviter ?
+
+#Problème du Producteur-Consommateur
+  Décrivez le problème du producteur-consommateur. Comment les sémaphores peuvent-ils être utilisés pour le résoudre ?
